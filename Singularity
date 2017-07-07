@@ -3,4 +3,4 @@ From: ubuntu:14.04
 
 %runscript
 
-exec echo "Tacotacotacooo"
+exec echo "Tacotacotaco"
