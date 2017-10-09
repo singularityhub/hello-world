@@ -2,4 +2,4 @@ Bootstrap: docker
 From: ubuntu:14.04
 
 %runscript
-exec echo "Tacotacotacooooooo"
+exec echo "Tacotacotaco"
