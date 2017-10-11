@@ -2,7 +2,7 @@ Bootstrap: docker
 From: ubuntu
 
 %help
-Heeeeelp! meeeee.
+Heeeeelp!
 
 %environment
     VADER=badguy
