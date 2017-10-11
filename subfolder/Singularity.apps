@@ -34,9 +34,6 @@ Heeeeelp! meeeee.
 %apphelp foo
     This is the help for foo.
 
-%appfiles foo
-   avocados.txt
-
 
 ##############################
 # bar
