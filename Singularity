@@ -2,4 +2,4 @@ Bootstrap: docker
 From: ubuntu:14.04
 
 %runscript
-exec echo "Tacotaco-donotbuildmeee"
+exec echo "Tacotaco"
