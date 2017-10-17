@@ -2,4 +2,4 @@ Bootstrap: docker
 From: ubuntu:14.04
 
 %runscript
-exec echo "Tacotacotriggerror"
+exec echo "Tacotacor"
